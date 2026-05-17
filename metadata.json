@@ -1,0 +1,6 @@
+{
+  "name": "LINE Sticker Cutter",
+  "description": "A precise image slicing tool for LINE stickers with background removal and custom grid support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
